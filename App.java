@@ -4,6 +4,6 @@ public class App
     {
 
         System.out.println("Hello world java we are awesome");
-        System.out.println("i am not bored with training sir");
+        System.out.println("i am not bored with training sir durgadas");
     }
 }
