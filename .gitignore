@@ -1,3 +1,5 @@
 *.class
 *.vscode
 *.classpath
+*.project
+*.settings
